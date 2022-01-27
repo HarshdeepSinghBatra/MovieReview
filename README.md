@@ -1,6 +1,12 @@
 # Movie Review App
 A platform designed for users to view and post reviews for all the latest movies. Get to know what's trending and increase your watch list.
 
+### App Screenshots
+
+![Home page banner](https://firebasestorage.googleapis.com/v0/b/moviereviewapp-57bd9.appspot.com/o/HomePageBanner.png?alt=media&token=25f3df44-a4e9-4e56-897f-0fab52f17f92)
+![Home page movies list](https://firebasestorage.googleapis.com/v0/b/moviereviewapp-57bd9.appspot.com/o/MoviesList.png?alt=media&token=9534955e-1e49-4b91-a1d2-b1f068403727)
+![Review modal](https://firebasestorage.googleapis.com/v0/b/moviereviewapp-57bd9.appspot.com/o/ReviewModal.png?alt=media&token=e1ac4c7c-dbbf-4344-9248-fd99ef59022a)
+
 ### Dev Tools / Technologies
 1. Client side code written in **React**
 2. **Node** and **Express** used for server side code.
