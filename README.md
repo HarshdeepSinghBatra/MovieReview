@@ -41,7 +41,7 @@ Follow the steps to setup a developement environment for this app:
 
 - Clone this repo. Use the command, or simple download the zip file for code
 ```bash
-  git clone https://github.com/Kawaljeet2001/Artistify-Community-Platform.git
+  git clone https://github.com/HarshdeepSinghBatra/MovieReview.git
 ```
 
 - Setting up server dependencies
