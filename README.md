@@ -9,12 +9,11 @@ A platform designed for users to view and post reviews for all the latest movies
 
 ### Dev Tools / Technologies
 1. Client side code written in **React**
-2. **Node** and **Express** used for server side code.
+2. **NodeJS** and **Express** used for server side code.
 3. **PostgreSQL** is used for maintaining database.
 4. **JWT Authentication** to securely signin in and avail the services as a registered user.
 5. **TMDB API** for getting access to the movies data.
-6. Form fields managed using **React-Hook-Form**.
-7. Implemented infinite scrolling with **Intersection observer**.
+6. Implemented infinite scrolling with **Intersection observer**.
 
 ### Color Reference
 | Color             | Hex                                                                |
